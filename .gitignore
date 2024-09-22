@@ -1,0 +1,16 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore macOS system files (optional, if you're on macOS)
+.DS_Store
+
+# Ignore test coverage files (optional, for testing tools)
+coverage/
+*.coverage
+
+# Ignore log files
+*.log
